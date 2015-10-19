@@ -4,13 +4,13 @@ The agile testing coding exercise is designed to demonstrate an agile tester's a
 
 Along the way, other attributes indirectly tested include natural curiosity, passion, autodidacticism, courage, leadership, communication skills, and attention to detail. 
 
-###Getting Started
+###Getting Started on Cengage
 
 To get started with the exercise, you will need to have:
   
 * Something to edit Java code (such as the Eclipse IDE)
 * Apache Maven
-* Firefox v21 - v23
+* Firefox v32 - v37
 * Apache JMeter
 
  
